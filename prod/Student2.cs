@@ -8,5 +8,22 @@ namespace prod
 {
     internal class Student2
     {
+        static public int[,] Block1(int[,] arr)
+        {
+            ///code
+            return arr;
+        }
+
+        static public int[,] Block2(int[,] arr)
+        {
+            ///code
+            return arr;
+        }
+
+        static public int[,] Block3(int[,] arr)
+        {
+            ///code
+            return arr;
+        }
     }
 }
